@@ -3,7 +3,7 @@ import requests
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 
-url =""
+url ="http://course.rewayatcafe.com/QzNPOj"
 
 def rewayatcafe_bypass(url: str):
     client = requests.Session()
